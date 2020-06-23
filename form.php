@@ -17,7 +17,7 @@
     </div>
     <div>
         <label for="theme-select">Sujet:</label>
-        <select name="sujet" id="sujet" name="topic" required>
+        <select name="sujet" id="sujet" name="sujet" required>
             <option value="">--Choisissez votre thême--</option>
             <option value="Les tontons codeurs">Les tontons codeurs</option>
             <option value="Tom Select">Tom Select</option>
